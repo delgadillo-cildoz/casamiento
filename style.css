@@ -317,10 +317,16 @@ a{
     font-family: sans-serif;
 }
 
+.modal-content div img{
+    width: 100%;
+    height: 250px;
+}
+
 .modal-pase div p{
     text-align: center;
     font-family: 'Cormorant Garamond';
 }
+
 
 #fondo2{
     margin: 0%;
